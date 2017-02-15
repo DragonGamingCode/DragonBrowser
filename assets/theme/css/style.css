@@ -501,11 +501,11 @@ p.lead,
 
 .display-1 {
   font-size: 4.39rem;
-  font-weight: 100;
+  font-weight: 100 !important;
   letter-spacing: -2px;
   margin-bottom: 0.2843em;
   margin-top: 3.9rem; 
-  font-family: "polar" !important
+  font-family: "polar" !important;
 }
 
 .display-2 {
