@@ -5,11 +5,6 @@
 .container {
   position: relative; }
 
-@font-face {
-    font-family: polar;
-    src: url("https://dragongamingcode.github.io/DragonBrowser/polar.otf");
-}
-
 .btn {
   margin-bottom: 0.5rem; }
   .btn + .btn {
@@ -501,12 +496,10 @@ p.lead,
 
 .display-1 {
   font-size: 4.39rem;
-  font-weight: 100 !important;
+  font-weight: 600;
   letter-spacing: -2px;
   margin-bottom: 0.2843em;
-  margin-top: 3.9rem; 
-  font-family: "polar" !important;
-}
+  margin-top: 3.9rem; }
 
 .display-2 {
   font-size: 3rem;

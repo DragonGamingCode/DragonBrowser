@@ -22,8 +22,11 @@
       }
     },
     "versionFirst": "3.12",
-    "uniqCompNum": 9,
-    "versionPublish": "3.12"
+    "uniqCompNum": 7,
+    "versionPublish": "3.12",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": ""
   },
   "pages": {
     "index.html": {
@@ -157,7 +160,7 @@
             "showText": false,
             "showButtons": false
           },
-          "title": "DRAGON BROWSER",
+          "title": "FULL SCREEN INTRO",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -198,40 +201,6 @@
           },
           "title": "NOT JUST A WEB BROWSER.",
           "text": "<p>Dragon Browser is a web browser designed for everyone. Built on respectable frameworks, and engineered for your enjoyment, it is sure to fit you. Anywhere.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-7",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pattern-1-2000x11251.png",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "PERFORMANCE.",
-          "text": "<p>Placeholder.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
